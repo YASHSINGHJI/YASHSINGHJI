@@ -4,7 +4,7 @@
 - 👀 I’m interested in DSA and web dev
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on java projects
-- 📫 How to reach me : [linkedin](https://linkedin.com/in/abhinav--singh)
+- 📫 How to reach me : [Linkedin](https://linkedin.com/in/abhinav--singh)
 
 
 ## 🌐 Socials:
