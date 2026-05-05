@@ -1,8 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m Abhinav Singh
-- 👀 I’m interested in DSA and Android Dev
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Data Science and Machine Learning 
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me : [Linkedin](https://linkedin.com/in/abhinav--singh)
 
